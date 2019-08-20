@@ -8,17 +8,17 @@
   "profile": [
     {
       "name": "Marcos",
-      "city": "San Nicolas de los Arroyos"
+      "city": "San Nicolas de los Arroyos",
       "photo": "../../assets/img/marcos.jpg"
     },
     {
       "name": "Fausto",
-      "city": "Rosario"
+      "city": "Rosario",
       "photo": "../../assets/img/marcos.jpg"
     },
     {
       "name": "Franco",
-      "city": "Perez Millan"
+      "city": "Perez Millan",
       "photo": "../../assets/img/marcos.jpg"
     }
   ]
